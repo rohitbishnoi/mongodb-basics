@@ -1,7 +1,6 @@
 package com.tothenew.mongobasics.enums
 
-
-enum ResultType {
+public enum ResultType {
 
     EXAM,
     QUIZ,

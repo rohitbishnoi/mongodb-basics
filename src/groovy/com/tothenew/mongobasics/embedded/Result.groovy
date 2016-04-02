@@ -8,6 +8,11 @@ class Result {
     Long score
     ResultType type
 
+    static constraints = {
 
+    }
+
+
+    static transients = ['errors']
 
 }

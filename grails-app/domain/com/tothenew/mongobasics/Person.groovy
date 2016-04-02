@@ -12,7 +12,7 @@ class Person {
         age nullable: true
     }
 
-    //static mapWith = "mongo"
+    static mapWith = "mongo"
 }
 
 
